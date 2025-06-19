@@ -4,10 +4,11 @@ A simple and visually engaging mental wellness tracking web application where us
 
 ---
 
-**Frontend:** React, Tailwind CSS, Chart.js
+- **Frontend:** React, Tailwind CSS, Chart.js
 - **Tooling:** Vite, TypeScript
 - **State Management:** LocalStorage
 - **Icons & UI:** Lucide Icons, Custom Animations
+
 
 
 ---
