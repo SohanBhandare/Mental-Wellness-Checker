@@ -6,7 +6,7 @@ A simple and visually engaging mental wellness tracking web application where us
 
 ## 🔧 Technologies Used
 
-- **React.js** (Frontend library)
+- **React** (Frontend library)
 - **TypeScript** (Static typing)
 - **Tailwind CSS** (Utility-first CSS)
 - **Chart.js + react-chartjs-2** (Data visualization)
