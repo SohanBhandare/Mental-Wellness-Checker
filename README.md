@@ -4,12 +4,15 @@ A simple and visually engaging mental wellness tracking web application where us
 
 ---
 
-- **Frontend:** React, Tailwind CSS, Chart.js
-- **Tooling:** Vite, TypeScript
-- **State Management:** LocalStorage
-- **Icons & UI:** Lucide Icons, Custom Animations
+## 🔧 Technologies Used
 
-
+- **React.js** (Frontend library)
+- **TypeScript** (Static typing)
+- **Tailwind CSS** (Utility-first CSS)
+- **Chart.js + react-chartjs-2** (Data visualization)
+- **LocalStorage** (Client-side persistence)
+- **Vite** (Fast build tool)
+- **Git & GitHub** (Version control)
 
 ---
 
